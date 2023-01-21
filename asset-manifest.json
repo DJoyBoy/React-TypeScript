@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-type-script/static/css/main.5aca4fcb.css",
+    "main.js": "/react-type-script/static/js/main.8011bcd1.js",
+    "index.html": "/react-type-script/index.html",
+    "main.5aca4fcb.css.map": "/react-type-script/static/css/main.5aca4fcb.css.map",
+    "main.8011bcd1.js.map": "/react-type-script/static/js/main.8011bcd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aca4fcb.css",
+    "static/js/main.8011bcd1.js"
+  ]
+}
